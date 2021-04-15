@@ -1,4 +1,4 @@
-# tron-api-client
+# litetokens-api-client
 
 [![crates.io](https://meritbadge.herokuapp.com/tron_api_client)](https://crates.io/crates/tron-api-client)
 [![documentation](https://docs.rs/tron-api-client/badge.svg)](https://docs.rs/tron-api-client)
